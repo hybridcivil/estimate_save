@@ -1,0 +1,6 @@
+{
+  "name": "Building Estimate",
+  "description": "Building construction material and cost estimate calculator with project saving, rate management, PDF export, and secure login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
